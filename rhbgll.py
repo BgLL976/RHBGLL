@@ -22,11 +22,12 @@ def main():
 #--------------------------------Banner/LOGO------------------------------------------
 def logo():
   print """%s
-  __  __ ___    ___                                   
- |  \/  |   \  / __|_ __  __ _ _ __  _ __  ___ _ _ ___ %sAuthor by %sabilseno11%s
- | |\/| | |) | \__ \ '_ \/ _` | '  \| '  \/ -_) '_(_-< %sGithub %sgithub.com/AbilSeno%s
- |_|  |_|___/  |___/ .__/\__,_|_|_|_|_|_|_\___|_| /__/ %sTeam %sanoncybfakeplayers%s
-                   |_|                                 %sTools spam otp dengan 29 spammers"""%(qu,pu,ku,qu,pu,ku,qu,pu,ku,qu,qu)
+  ____  _     _    _   _   _                 _                         _
+|  _ \(_)___| | _(_) | | | | __ _ _ __   __| | __ _ _   _  __ _ _ __ | |_ ___
+| |_) | / __| |/ / | | |_| |/ _` | '_ \ / _` |/ _` | | | |/ _` | '_ \| __/ _ \   %sAuthor by %srhbgll%s                                                                                                                                                                                               
+|  _ <| \__ \   <| | |  _  | (_| | | | | (_| | (_| | |_| | (_| | | | | || (_) |  %sGithub %sgithub.com/Bgll%s
+|_| \_\_|___/_|\_\_| |_| |_|\__,_|_| |_|\__,_|\__,_|\__, |\__,_|_| |_|\__\___/   %sTeam %sanoncybfakeplayers%s
+                                                    |___/                        %sTools spam otp dengan 29 spammers"""%(qu,pu,ku,qu,pu,ku,qu,pu,ku,qu,qu)
 #-------------------------------Input Function------------------------------------------
 def input():
   global nom
